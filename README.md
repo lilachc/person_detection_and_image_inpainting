@@ -1,9 +1,6 @@
 # person_detection_and_image_inpainting
 
-# Project Title: Image Inpainting - I/O Framework
-
-## Team:
-Team #2 - Daniel Yohan & Lilach Cohen
+# Project Title: Image Inpainting 
 
 ## Description:
 This project focuses on image inpainting, where we developed a model to generate alternative synthesized content for missing or masked regions in images. By leveraging a pretrained model trained on the “places2” and “celebA” datasets (see Acknowledgements), our approach aims to replace “empty masks” with realistic backgrounds that seamlessly blend into the original images. For more details, please see the report.
@@ -14,6 +11,8 @@ Here is an example image:
 
 ![Example Image](example.png)
 
+## Team:
+Team #2 - Daniel Yohan & Lilach Cohen
 
 ## Acknowledgements
 
