@@ -1,5 +1,7 @@
 # Image Inpainting Framework
 
+![Example Image](example.png)
+
 ## Project Overview
 This project, developed by **Team #2: Daniel Yohan & Lilach Cohen**, focuses on implementing an image inpainting framework to synthesize realistic content in masked regions of images. Leveraging a pretrained generative adversarial network (GAN) model, the project aims to seamlessly replace empty or missing regions in images while maintaining high visual fidelity.
 
@@ -73,14 +75,6 @@ Using the pretrained model, masked regions in the input image are replaced with 
 ## Team Members
 - **Daniel Yohan**
 - **Lilach Cohen**
-
-
-## Example Image
-
-Here is an example image:
-
-![Example Image](example.png)
-
 
 ## Acknowledgements
 
